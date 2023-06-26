@@ -1,18 +1,16 @@
 /*  your css code here. If applicable */
-.div-1{
+.star{
 	width: 0px;
 	height: 0px;
 	border-left: 30px solid transparent;
 	border-right: 30px solid transparent;
+}
+.div-1{
     border-bottom: 50px solid yellow;
 	position:relative;
 	
 }
 .div-2{
-	width: 0px;
-	height: 0px;
-	border-left: 30px solid transparent;
-	border-right: 30px solid transparent;
     border-top: 50px solid yellow;
 
 	position:absolute;
